@@ -20,8 +20,8 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Landed
 
 ## App Links
 
-- [Eleventy Html5UP Landed](https://eleventy-html5up-landed.appseed.us) - Live DEMO
-- # [Eleventy Html5UP Landed](https://appseed.us/static-site/eleventy-html5up-landed) - Product page
+- **[Eleventy Landed](https://eleventy-html5up-landed.appseed.us)** - Live DEMO
+- **[Eleventy Landed](https://appseed.us/static-site/eleventy-html5up-landed)** - Product page
 
 <br />
 
